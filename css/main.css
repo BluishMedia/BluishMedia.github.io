@@ -1,0 +1,33 @@
+/* athiti-300 - latin */
+@font-face {
+  font-family: "Athiti";
+  font-style: normal;
+  font-weight: 300;
+  src: url("../fonts/athiti-v2-latin-300.eot");
+  /* IE9 Compat Modes */
+  src: local("Athiti Light"), local("Athiti-Light"), url("../fonts/athiti-v2-latin-300.eot?#iefix") format("embedded-opentype"), url("../fonts/athiti-v2-latin-300.woff2") format("woff2"), url("../fonts/athiti-v2-latin-300.woff") format("woff"), url("../fonts/athiti-v2-latin-300.ttf") format("truetype"), url("../fonts/athiti-v2-latin-300.svg#Athiti") format("svg");
+  /* Legacy iOS */
+}
+/* athiti-regular - latin */
+@font-face {
+  font-family: "Athiti";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/athiti-v2-latin-regular.eot");
+  /* IE9 Compat Modes */
+  src: local("Athiti"), local("Athiti-Regular"), url("../fonts/athiti-v2-latin-regular.eot?#iefix") format("embedded-opentype"), url("../fonts/athiti-v2-latin-regular.woff2") format("woff2"), url("../fonts/athiti-v2-latin-regular.woff") format("woff"), url("../fonts/athiti-v2-latin-regular.ttf") format("truetype"), url("../fonts/athiti-v2-latin-regular.svg#Athiti") format("svg");
+  /* Legacy iOS */
+}
+/* athiti-500 - latin */
+@font-face {
+  font-family: "Athiti";
+  font-style: normal;
+  font-weight: 500;
+  src: url("../fonts/athiti-v2-latin-500.eot");
+  /* IE9 Compat Modes */
+  src: local("Athiti Medium"), local("Athiti-Medium"), url("../fonts/athiti-v2-latin-500.eot?#iefix") format("embedded-opentype"), url("../fonts/athiti-v2-latin-500.woff2") format("woff2"), url("../fonts/athiti-v2-latin-500.woff") format("woff"), url("../fonts/athiti-v2-latin-500.ttf") format("truetype"), url("../fonts/athiti-v2-latin-500.svg#Athiti") format("svg");
+  /* Legacy iOS */
+}
+body {
+  font: 100% Athiti, sans-serif;
+}
